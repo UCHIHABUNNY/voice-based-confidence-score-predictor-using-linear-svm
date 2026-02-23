@@ -1,0 +1,10 @@
+ID,Timestamp,Text,Sentiment,Confidence Score (%)
+,21-02-2026 14:29,hello hello,Positive,
+,21-02-2026 14:36,hello hello I am now preparing compound,Positive,
+3.0,2026-02-21 15:47:12,hello hello,Positive,50.0
+4.0,2026-02-21 15:48:03,film python,Positive,31.28
+5.0,2026-02-21 16:00:00,today I am with nervous but I can manage,Positive,7.01
+6.0,2026-02-21 16:29:34,how are you,Positive,44.38
+7.0,2026-02-21 18:03:09,hello hello,Positive,54.17
+8.0,2026-02-21 19:11:29,Good Morning Sir my name,Positive,46.09
+9.0,2026-02-21 19:12:08,good morning Sar my name is sabran and currently pursuing my BTech 3rd year in Tally University I am confident in the skills like Python Java C plus plus and everything language,Positive,40.83
